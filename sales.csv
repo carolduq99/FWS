@@ -1,0 +1,5 @@
+tr_id, buyer, seller, product, quant, cost
+1, Robert, Alice, potato, 3, 30
+2, Robert, Charles, tomato, 5, 40
+3, Alice, Charles, onion, 10, 50
+4, Charles, Daisy, potato, 4, 40
